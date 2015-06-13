@@ -2,7 +2,7 @@
 Package that creates observing scripts for the Dark Energy Camera
 
 ## Usage
-Here we create a script in the local directory called 'M31_decam_script.json', containing three g band and five r band exposures of the Andromeda galaxy.
+Here we create a script in the local directory called 'M31_decam_script.json', containing instructions for taking three g band and five r band exposures of the Andromeda galaxy.
 
 ```python
 
